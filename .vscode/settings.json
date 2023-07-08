@@ -1,0 +1,13 @@
+{
+    "files.encoding": "utf8",
+    "editor.rulers": [
+        80,
+        120,
+    ],
+    "files.autoGuessEncoding": false,
+    "files.exclude": {
+        "obj": true,
+        "*.wvproj": true,
+        "*.launch": true
+    }
+}

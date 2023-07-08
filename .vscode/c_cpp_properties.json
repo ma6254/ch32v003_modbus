@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "WCH_MRS",
+            "includePath": [
+                "${workspaceFolder}/Core",
+                "${workspaceFolder}/Debug",
+                "${workspaceFolder}/Peripheral/inc",
+                "${workspaceFolder}/Peripheral/inc",
+                "${workspaceFolder}/Components/byte_packer",
+                "${workspaceFolder}/Components/soft_timer",
+                "${workspaceFolder}/User",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "__STATIC_INLINE"
+            ],
+            "compilerArgs": [
+                "-fexec-charset=UTF8"
+            ]
+        }
+    ],
+    "version": 4
+}
